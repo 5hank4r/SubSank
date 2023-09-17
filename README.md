@@ -4,10 +4,11 @@ Use this Bash script to easily find and organize subdomains. It employs multiple
 
 
 # Installation
+`https://github.com/5hank4r/SubSank.git`
+`cd SubSank`
+`chmod +x SubSank`
+`./SubSank`
 
-cd SubDomz 
-chmod +x install.sh SubDomz
-./install.sh
 # Tools Included
 Subfinder,                                          
 Assetfinder
