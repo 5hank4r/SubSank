@@ -3,11 +3,10 @@ Use this Bash script to easily find and organize subdomains. It employs multiple
 ![image](https://github.com/5hank4r/SubSank/assets/34772838/22c68de3-4292-413d-a749-7e97e9abdc60)
 
 
-#Tools Included
-Subfinder
+# Tools Included
+Subfinder,                                          
 Assetfinder
 Chaos
-Shuffledns
 Findomain
 Amass
 Gaup
